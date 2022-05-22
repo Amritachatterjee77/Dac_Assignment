@@ -1,2 +1,2 @@
 # Image
-![A bird flying][robin_1.jpg]
+![Flying Bird](D:\Amrita\TWT_Demo\Dac_Assignment\robin_1.jpg)
