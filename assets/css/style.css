@@ -1,0 +1,19 @@
+p {
+  color: green;
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+h1 {
+	color: teal;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+	text-decoration-line: overline underline;
+}
+body {	
+      background: white;
+}
+ul {
+    list-style-type: circle;
+	font-family: Arial, Helvetica, sans-serif;
+}	  
