@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 ## Step 5: Set preferences for receiving notifications
 
 Complete the following steps to set your preferences for receiving various types of notifications:
