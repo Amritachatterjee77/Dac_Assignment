@@ -11,4 +11,3 @@ This is an introduction to the things I have learned in the session.
 -  Jekyll
 -  Liquid
 -  Markdown 
-
