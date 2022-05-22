@@ -27,12 +27,12 @@ IAM access groups provide a way for you to quickly and easily assign access to m
 
 2. Assign access to the group.
 
-  a. Click **Access policies > Assign access**.
-  b. Select the type of access to assign:
-		a. **IAM services**: Assigns access to IAM-enabled services, which are services that are managed by using IAM access control and assigned to a resource group.\
-		b. **Account management services**: Assigns access to manage platform services, such as billing, license and entitlements, and enterprises.
-  c. Select all roles that apply.
-  d. Click **Add > Assign**.
+    a. Click **Access policies > Assign access**.
+    a. Select the type of access to assign:
+    a. **IAM services**: Assigns access to IAM-enabled services, which are services that are managed by using IAM access control and assigned to a resource group.
+    a. **Account management services**: Assigns access to manage platform services, such as billing, license and entitlements, and enterprises.
+    a. Select all roles that apply.
+    a. Click **Add > Assign**.
 See [What makes a good access group strategy?](https://cloud.ibm.com/docs/account?topic=account-account_setup#resource-group-strategy) for details about how to best set-up your access groups.
 
 ## Step 9: Explore your support options
