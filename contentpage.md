@@ -11,7 +11,7 @@ Complete the following steps to set your preferences for receiving various types
 
 You receive notifications when you reach 80%, 90%, and 100% of the spending thresholds that you specify. Enter the dollar amount to set a spending threshold when you set up your spending notification. For more information, see [Setting spending notifications](https://cloud.ibm.com/docs/billing-usage?topic=billing-usage-spending).
 
-# Step 7: Set up access
+## Step 7: Set up access
 
 IAM access groups provide a way for you to quickly and easily assign access to multiple resources in your account at one time.
 
@@ -23,15 +23,15 @@ IAM access groups provide a way for you to quickly and easily assign access to m
 
 2. Assign access to the group.
 
-    a. Click **Access policies > Assign access**.\
-    b. Select the type of access to assign:\
-	     a. **IAM services**: Assigns access to IAM-enabled services, which are services that are managed by using IAM access control and assigned to a resource group.\
-         b. **Account management services**: Assigns access to manage platform services, such as billing, license and entitlements, and enterprises.\
-	a. Select all roles that apply.\
+    a. Click **Access policies > Assign access**.
+    b. Select the type of access to assign:
+	    a. **IAM services**: Assigns access to IAM-enabled services, which are services that are managed by using IAM access control and assigned to a resource group.\
+        b. **Account management services**: Assigns access to manage platform services, such as billing, license and entitlements, and enterprises.
+	a. Select all roles that apply.
     a. Click **Add > Assign**.
 See [What makes a good access group strategy?](https://cloud.ibm.com/docs/account?topic=account-account_setup#resource-group-strategy) for details about how to best set-up your access groups.
 
-# Step 9: Explore your support options
+## Step 9: Explore your support options
 
 You can use the Support Center to get help with any issues that you might encounter. To access the Support Center, click **Support** in the console menu bar.
 
